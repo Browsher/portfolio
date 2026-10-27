@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Fluxo ilustrativo do Builder 2.0</title><desc id="desc">Etapas de estrutura, conteúdo e cores, efeitos e prévia com exportação. Ilustração do processo, não uma captura da interface.</desc>
+<rect width="1200" height="310" fill="#F4F7F7"/>
+<text x="40" y="50" fill="#183B45" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">Builder 2.0</text>
+<text x="40" y="82" fill="#536B73" font-family="Segoe UI,Arial,sans-serif" font-size="17">Da montagem da página à entrega de um projeto de site</text>
+<g fill="#FFFFFF" stroke="#CCDADB"><rect x="40" y="120" width="258" height="123" rx="8"/><rect x="327" y="120" width="258" height="123" rx="8"/><rect x="614" y="120" width="258" height="123" rx="8"/><rect x="901" y="120" width="258" height="123" rx="8"/></g>
+<g fill="#16846F" font-family="Segoe UI,Arial,sans-serif" font-size="16"><text x="60" y="150">01</text><text x="347" y="150">02</text><text x="634" y="150">03</text><text x="921" y="150">04</text></g>
+<g fill="#183B45" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600"><text x="60" y="188">Estrutura</text><text x="347" y="188">Conteúdo e cores</text><text x="634" y="188">Efeitos</text><text x="921" y="188">Prévia e exportação</text></g>
+<g fill="#536B73" font-family="Segoe UI,Arial,sans-serif" font-size="16"><text x="60" y="218">Seções e componentes</text><text x="347" y="218">Identidade da página</text><text x="634" y="218">Movimento e interação</text><text x="921" y="218">Projeto separado</text></g>
+<text x="40" y="282" fill="#536B73" font-family="Segoe UI,Arial,sans-serif" font-size="15">Fluxo ilustrativo da ferramenta interna em desenvolvimento.</text>
+</svg>
